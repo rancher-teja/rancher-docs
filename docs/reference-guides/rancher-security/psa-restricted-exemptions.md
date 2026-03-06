@@ -54,6 +54,7 @@ plugins:
                      cattle-windows-gmsa-system,
                      cert-manager,
                      cis-operator-system,
+                     compliance-operator-system
                      fleet-default,
                      fleet-local,
                      ingress-nginx,
